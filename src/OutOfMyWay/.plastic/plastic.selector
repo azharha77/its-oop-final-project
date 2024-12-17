@@ -1,4 +1,0 @@
-repository "Project@TeamHardCORE@cloud"
-  path "/"
-    br "/main"
-    co "/main"
